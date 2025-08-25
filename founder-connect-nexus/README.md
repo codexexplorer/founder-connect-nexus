@@ -24,7 +24,7 @@ Follow these steps to set up the project locally:
 
 1️⃣ Clone the repository
 
-git clone https://github.com/<your-username>/founder-connect-nexus.git
+git clone https://github.com/codexexplorer/founder-connect-nexus.git
 cd founder-connect-nexus
 
 
@@ -56,5 +56,6 @@ npm run build
 
 
 Your production files will be available in the dist/ folder. 🚀
+
 
 ✨ That’s it! You now have Business Nexus running on your machine.
